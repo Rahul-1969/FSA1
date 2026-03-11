@@ -3,8 +3,7 @@ using Linear Regression in Python.
 The application should predict salary based on years of experience using a 
 small sample dataset. The entire project must run inside a Docker container.
 
-
-A company wants to estimate an employee’s salary based on years of experience.
+A company wants to estimate an employeeï¿½s salary based on years of experience.
 You are given the following dataset:
 
 Years of Experience	  Salary (in lakhs)
